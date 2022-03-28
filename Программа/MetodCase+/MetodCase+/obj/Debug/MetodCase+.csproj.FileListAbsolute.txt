@@ -1,0 +1,6 @@
+C:\Users\79776\Desktop\Задания недели\Case2+\MetodCase+\MetodCase+\bin\Debug\MetodCase+.dll
+C:\Users\79776\Desktop\Задания недели\Case2+\MetodCase+\MetodCase+\bin\Debug\MetodCase+.pdb
+C:\Users\79776\Desktop\Задания недели\Case2+\MetodCase+\MetodCase+\obj\Debug\MetodCase+.csprojAssemblyReference.cache
+C:\Users\79776\Desktop\Задания недели\Case2+\MetodCase+\MetodCase+\obj\Debug\MetodCase+.csproj.CoreCompileInputs.cache
+C:\Users\79776\Desktop\Задания недели\Case2+\MetodCase+\MetodCase+\obj\Debug\MetodCase+.dll
+C:\Users\79776\Desktop\Задания недели\Case2+\MetodCase+\MetodCase+\obj\Debug\MetodCase+.pdb
